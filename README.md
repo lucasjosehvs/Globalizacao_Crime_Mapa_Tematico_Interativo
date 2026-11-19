@@ -35,7 +35,7 @@ CEFET-MG, Campus Divinópolis · Curso Técnico Integrado
 
 ## 1. Sobre o projeto
 
-Este repositório contém o **produto final** do Grupo 1 no Seminário *Geopolítica do Poder*: um **mapa temático comentado e interativo**, em formato de globo, que representa espacialmente a expansão das redes criminosas no contexto da globalização.
+Este repositório contém o **produto final** no Seminário *Geopolítica do Poder*: um **mapa temático comentado e interativo**, em formato de globo, que representa espacialmente a expansão das redes criminosas no contexto da globalização.
 
 O mapa articula dois conceitos centrais da Geografia:
 
