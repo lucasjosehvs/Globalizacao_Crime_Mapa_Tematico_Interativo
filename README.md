@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Globalização do Crime e das Atividades Ilegais
+# Globalização do Crime e das Atividades Ilegais
 
 ### Mapa temático interativo sobre fixos e fluxos do crime transnacional
 
@@ -10,7 +10,7 @@
 ![Dados](https://img.shields.io/badge/dados-UNODC%20%C2%B7%20GI--TOC-7e63c9)
 ![Status](https://img.shields.io/badge/depend%C3%AAncias-nenhuma-3aa86b)
 
-**Seminário Geopolítica do Poder · Geografia · 4º bimestre de 2026**
+**Seminário Geopolítica do Poder**
 CEFET-MG, Campus Divinópolis · Curso Técnico Integrado
 
 </div>
@@ -51,9 +51,8 @@ A tese que organiza o trabalho é que as mesmas redes técnicas que viabilizam o
 | **Componente curricular** | Geografia |
 | **Instituição** | CEFET-MG, Campus Divinópolis (Campus V) |
 | **Curso** | Técnico Integrado |
-| **Professora** | Samara Mirelly da Silva |
-| **Atividade** | Seminário *Geopolítica do Poder* (4º bimestre de 2026) |
-| **Tema do Grupo 1** | Globalização do crime e das atividades ilegais |
+| **Atividade** | Seminário *Geopolítica do Poder* |
+| **Tema** | Globalização do crime e das atividades ilegais |
 | **Modalidade do produto** | Mapa temático comentado |
 
 **Questão norteadora (proposta no enunciado):**
@@ -179,27 +178,7 @@ Valores conferidos nas publicações originais ou em sua cobertura jornalística
 
 O projeto é um **arquivo único** (`index.html`), sem build, sem instalação e sem dependências externas: D3.js e topojson-client estão embutidos, assim como a geometria dos países.
 
-**Opção 1: abrir direto no navegador**
-
-```bash
-git clone https://github.com/<usuario>/<repositorio>.git
-cd <repositorio>
-# abra index.html no navegador (duplo clique ou arraste para a janela)
-```
-
-**Opção 2: servidor local (opcional)**
-
-```bash
-python3 -m http.server 8000
-# acesse http://localhost:8000
-```
-
-**Opção 3: GitHub Pages**
-
-1. Em *Settings → Pages*, escolha a branch principal e a pasta `/ (root)`.
-2. Aguarde a publicação e acesse o endereço gerado pelo GitHub.
-
-> Navegadores modernos (Chrome, Edge, Firefox, Safari) são suficientes. A experiência foi pensada para desktop e celular.
+**Link para abrir o mapa: https://lucasjosehvs.github.io/Globalizacao_Crime_Mapa_Tematico_Interativo/**
 
 ## 8. Arquitetura técnica
 
@@ -267,20 +246,13 @@ Esta seção existe por rigor acadêmico. Convém apresentá-la junto com o prod
 
 ## 11. Autoria e licença
 
-**Autoria:** Grupo 1, Seminário *Geopolítica do Poder*, Geografia, 2º ano do Curso Técnico Integrado, CEFET-MG, Campus Divinópolis, 2026.
+**Autoria:**Seminário *Geopolítica do Poder*, CEFET-MG, Campus Divinópolis, 2026.
 
-**Integrantes:** _preencher com os nomes do grupo_
-
-**Orientação:** Profa. Samara Mirelly da Silva
-
-**Licença:** _definir antes de publicar_ (sugestão: [MIT](https://choosealicense.com/licenses/mit/) para o código; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br) para o conteúdo autoral).
+**Integrantes: Lucas José Campos; Lucas Sette dos Santos**
 
 **Bibliotecas de terceiros:** [D3.js](https://d3js.org/) (ISC) e [topojson-client](https://github.com/topojson/topojson-client) (ISC), embutidas no arquivo.
 
-**Como citar:**
-
-> GRUPO 1. **Globalização do crime e das atividades ilegais: mapa temático interativo**. Divinópolis: CEFET-MG, 2026. Trabalho de Geografia (Seminário Geopolítica do Poder).
-
+**Como citar: CAMPOS, L. J.; SANTOS, L. S.**
 ---
 
 <div align="center">
